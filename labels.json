@@ -1,0 +1,31 @@
+[
+	{"name": "S/accepted", "color": "#008000"},	
+	{"name": "S/ready", "color": "#008000"},
+	{"name": "S/on-going", "color": "#008000"},
+	{"name": "S/needs-review", "color": "#008000"},	
+	{"name": "S/blocked", "color": "#008000"},
+
+	{"name": "P/low", "color": "#b30000"},	
+	{"name": "P/medium", "color": "#b30000"},
+	{"name": "P/high", "color": "#b30000"},	
+	{"name": "P/critical", "color": "#b30000"}, 	
+
+	{"name": "T/question", "color": "#0000e6"},
+	{"name": "T/bug", "color": "#0000e6"},
+	{"name": "T/feature", "color": "#0000e6"},
+	{"name": "T/enhancement", "color": "#0000e6"},
+
+	{"name": "E/?", "color": "#e6e6e6"},
+	{"name": "E/0", "color": "#e6e6e6"},
+	{"name": "E/½", "color": "#e6e6e6"},
+	{"name": "E/1", "color": "#e6e6e6"},
+	{"name": "E/2", "color": "#e6e6e6"},
+	{"name": "E/3", "color": "#e6e6e6"},
+	{"name": "E/5", "color": "#e6e6e6"},
+	{"name": "E/8", "color": "#e6e6e6"},
+	{"name": "E/13", "color": "#e6e6e6"},
+	{"name": "E/20", "color": "#e6e6e6"},
+	{"name": "E/40", "color": "#e6e6e6"},
+	{"name": "E/100", "color": "#e6e6e6"},
+	{"name": "E/∞", "color": "#e6e6e6"}
+]
